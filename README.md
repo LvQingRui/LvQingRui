@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+[![My GitFut card](https://gitfut.com/LvQingRui.png?country=CN)](https://gitfut.com/LvQingRui?country=CN)
 
 <!--
 **LvQingRui/LvQingRui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
